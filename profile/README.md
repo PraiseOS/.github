@@ -12,3 +12,7 @@ NOTE: Some of these aren't avalable for the public yet.
 # Contact
 
 Contact praisedevteam@gmail.com in regards to any feedback.
+
+# Discord
+
+Our Discord server! https://discord.gg/APShCZua :)
