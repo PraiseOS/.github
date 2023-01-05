@@ -7,7 +7,7 @@ Praise is a group of developers lead by @Physicio.
 - PraiseOS
 - PraiseBot
 
-NOTE: Some of these aren't avalable for the public yet.
+NOTE: Some of these aren't avalable for the public yet or are only consepts.
 
 # Contact
 
