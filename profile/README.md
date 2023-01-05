@@ -1,6 +1,6 @@
 # Praise
 
-Praise is a group of developers lead by @Physicio.
+Praise is a package of apps developed by @Physicio.
 
 # Main Projects:
 
