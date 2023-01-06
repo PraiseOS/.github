@@ -11,7 +11,7 @@ NOTE: Some of these aren't avalable for the public yet or are only consepts.
 
 # Contact
 
-Contact praisedevteam@gmail.com in regards to any feedback.
+Contact praisedevteam@gmail.com to submit any feedback.
 
 # Discord
 
