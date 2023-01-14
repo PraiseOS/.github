@@ -2,7 +2,7 @@
 
 Praise is a package of apps developed by @Physicio.
 
-# Main Projects:
+# Main Projects
 
 - PraiseOS
 - PraiseBot
