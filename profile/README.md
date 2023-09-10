@@ -1,18 +1,13 @@
-# Praise
+# CoreOS
 
-Praise is a package of apps developed by @Physicio.
+CoreOS is developed by @Physicio in memorial of discord user Core.
 
-# Main Projects
-
-- PraiseOS
-- PraiseBot
-
-NOTE: Some of these aren't avalable for the public yet or are only consepts.
+NOTE: CoreOS is currently in early development and is only avaliable to beta testers.
 
 # Contact
 
-Contact praisedevteam@gmail.com to submit any feedback.
+Contact coreos.devacc@gmail.com to submit any feedback.
 
 # Discord
 
-Our Discord server! https://discord.gg/APShCZua :)
+https://discord.gg/XJXYbR2E
